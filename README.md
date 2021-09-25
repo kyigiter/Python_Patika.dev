@@ -1,1 +1,1 @@
-﻿# Patika.dev Python Porje1
+﻿# Patika.dev Python Proje1
